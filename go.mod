@@ -1,3 +1,3 @@
-module github.com/chadellison/realtimePacman
+module github.com/chadellison/pacmanServer
 
 go 1.13
